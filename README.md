@@ -39,7 +39,7 @@ ModelCascade is a Python script designed to automate the process of pulling Olla
 
 3. Run the script:
    ```bash
-   python modelcascade.py
+   python modelcascade4.py
    ```
 
 ---
@@ -64,14 +64,15 @@ ModelCascade is a Python script designed to automate the process of pulling Olla
 
 ### Example
 ```bash
-$ python modelcascade.py
+$ python modelcascade4.py
 
-  __  __           _        ______                              
- |  \/  |         | |      |  ____|                             
- | \  / | ___   __| | ___  | |__   _ __ ___   __ _ _ __ ___  ___ 
- | |\/| |/ _ \ / _` |/ _ \ |  __| | '_ ` _ \ / _` | '__/ _ \/ __|
- | |  | | (_) | (_| |  __/ | |____| | | | | | (_| | | |  __/\__ \
- |_|  |_|\___/ \__,_|\___| |______|_| |_| |_|\__,_|_|  \___||___/
+  __  __           _      _  _____                        _
+ |  \/  |         | |    | |/ ____|                      | |
+ | \  / | ___   __| | ___| | |     __ _ ___  ___ __ _  __| | ___
+ | |\/| |/ _ \ / _` |/ _ \ | |    / _` / __|/ __/ _` |/ _` |/ _ \
+ | |  | | (_) | (_| |  __/ | |___| (_| \__ \ (_| (_| | (_| |  __/
+ |_|  |_|\___/ \__,_|\___|_|\_____\__,_|___/\___\__,_|\__,_|\___|
+
 
 Welcome to ModelCascade! Let's pull some models.
 
