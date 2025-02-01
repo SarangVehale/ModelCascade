@@ -13,8 +13,15 @@ llama3.2-vision
 llama3.2-vision:90b
 llama3.1
 llama3.1:405b
+codellama
+tinyllama
 phi4
 phi3
+qwen
+qwen2
+qwen2.5
+qwen2.5-coder	
+nomic-embed-text
 gemma2:2b
 gemma2
 gemma2:27b
